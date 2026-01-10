@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Log4j2 configuration file
+    Controls how logs are displayed and where they are stored
+-->
+<Configuration status="INFO">
+
+    <!--
+        Appenders define WHERE the logs will be written
+        Example: Console, File, Database, etc.
+    -->
+    <Appenders>
+
+        <!--
+            Console Appender
+            Sends logs to the system console (IDE terminal / Jenkins console)
+        -->
+        <Console name="Console" target="SYSTEM_OUT">
+
+            <!--
+                PatternLayout defines HOW the log message will look
+                %d{HH:mm:ss}  -> Time
+                [%t]          -> Thread name
+                %-5level      -> Log level (INFO, ERROR, etc.)
+                %c            -> Class name
+                %msg          -> Actual log message
+                %n            -> New line
+            -->
+            <PatternLayout
+                    pattern="%d{HH:mm:ss} [%t] %-5level %c - %msg%n"/>
+        </Console>
+
+        <!--
+            File Appender
+            Writes logs into a file on disk
+        -->
+        <File name="FileLogger"
+              fileName="logs/automation.log"
+              append="true">
+
+            <!--
+                append="true" means:
+                New logs will be added to the existing file
+                Old logs will NOT be deleted
+            -->
+            <PatternLayout
+                    pattern="%d{HH:mm:ss} [%t] %-5level %c - %msg%n"/>
+        </File>
+
+    </Appenders>
+
+    <!--
+        Loggers section controls WHICH logs are allowed
+        and which appenders they go to
+    -->
+    <Loggers>
+
+        <!--
+            Root logger is the parent logger
+            level="info" means:
+            INFO, WARN, ERROR, FATAL logs are allowed
+            DEBUG and TRACE logs are ignored
+        -->
+        <Root level="info">
+
+            <!-- Send logs to console -->
+            <AppenderRef ref="Console"/>
+
+            <!-- Send logs to file -->
+            <AppenderRef ref="FileLogger"/>
+
+        </Root>
+
+    </Loggers>
+
+</Configuration>

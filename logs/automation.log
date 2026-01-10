@@ -1,0 +1,578 @@
+10:54:39 [main] INFO  base.BaseTest - Initializing WebDriver
+10:55:07 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+10:55:07 [main] INFO  tests.AddToCartTest - Performing login with valid credentials
+10:55:07 [main] INFO  pages.loginPage - LoginPage initialized
+10:55:07 [main] INFO  pages.loginPage - Performing login action
+10:55:07 [main] INFO  pages.loginPage - Entering username
+10:55:07 [main] INFO  pages.loginPage - Entering password
+10:55:07 [main] INFO  pages.loginPage - clicking login button
+10:55:07 [main] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+10:55:07 [main] INFO  pages.ProductsPage - Product Page Initialized
+10:55:07 [main] INFO  pages.ProductsPage - Items are adding to cart
+10:55:07 [main] INFO  listeners.TestListener - Test passed: addMultipleProductsToCartTest
+10:55:07 [main] INFO  base.BaseTest - Closing browser
+10:55:08 [main] INFO  base.BaseTest - Initializing WebDriver
+10:55:32 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+10:55:32 [main] INFO  tests.AddToCartTest - Performing login with valid credentials
+10:55:32 [main] INFO  pages.loginPage - LoginPage initialized
+10:55:32 [main] INFO  pages.loginPage - Performing login action
+10:55:32 [main] INFO  pages.loginPage - Entering username
+10:55:32 [main] INFO  pages.loginPage - Entering password
+10:55:32 [main] INFO  pages.loginPage - clicking login button
+10:55:32 [main] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+10:55:32 [main] INFO  pages.ProductsPage - Product Page Initialized
+10:55:32 [main] INFO  pages.ProductsPage - Items are adding to cart
+10:55:32 [main] INFO  listeners.TestListener - Test passed: addMultipleProductsToCartTest
+10:55:32 [main] INFO  base.BaseTest - Closing browser
+10:55:32 [main] INFO  base.BaseTest - Initializing WebDriver
+10:55:55 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+10:55:55 [main] INFO  tests.AddToCartTest - Performing login with valid credentials
+10:55:55 [main] INFO  pages.loginPage - LoginPage initialized
+10:55:55 [main] INFO  pages.loginPage - Performing login action
+10:55:55 [main] INFO  pages.loginPage - Entering username
+10:55:55 [main] INFO  pages.loginPage - Entering password
+10:55:56 [main] INFO  pages.loginPage - clicking login button
+10:55:56 [main] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+10:55:56 [main] INFO  pages.ProductsPage - Product Page Initialized
+10:55:56 [main] INFO  pages.ProductsPage - Items are adding to cart
+10:55:56 [main] INFO  listeners.TestListener - Test passed: addMultipleProductsToCartTest
+10:55:56 [main] INFO  base.BaseTest - Closing browser
+10:55:56 [main] INFO  listeners.TestListener - Test execution finished. Flushing report.
+11:41:41 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+11:41:42 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+11:42:19 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Performing login with valid credentials
+11:42:19 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+11:42:19 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Starting valid login test
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login with valid credentials
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+11:42:21 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+11:42:21 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+11:42:21 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Validating successful login
+11:42:21 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Valid login test completed successfully
+11:42:21 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+11:42:22 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+11:42:22 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+11:42:22 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+11:42:22 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+11:42:22 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+11:42:45 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Performing login with valid credentials
+11:42:45 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+11:42:45 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+11:42:46 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+11:42:46 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+11:42:46 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+11:42:46 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+11:42:46 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+11:42:46 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+11:42:46 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+11:42:47 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+11:43:11 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Performing login with valid credentials
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+11:43:11 [TestNG-test-Regression Tests-2] INFO  tests.AddToCartTest - Adding the multiple product to the cart
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+11:43:11 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+11:43:11 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+21:54:24 [main] INFO  base.BaseTest - Loading configuration properties
+21:54:50 [main] INFO  listeners.TestListener - Test started: validlogintest
+21:54:50 [main] INFO  tests.loginTest - Starting valid login test
+21:54:50 [main] INFO  pages.loginPage - LoginPage initialized
+21:54:50 [main] INFO  tests.loginTest - Attempting login
+21:54:50 [main] INFO  pages.loginPage - Performing login action
+21:54:50 [main] INFO  pages.loginPage - Entering username
+21:54:50 [main] INFO  pages.loginPage - Entering password
+21:54:50 [main] INFO  pages.loginPage - clicking login button
+21:54:51 [main] INFO  tests.loginTest - Login successfull , validating navigation
+21:54:51 [main] INFO  tests.loginTest - Login test completed for userstandard_user
+21:54:51 [main] INFO  listeners.TestListener - Test passed: validlogintest
+21:54:51 [main] INFO  base.BaseTest - Closing browser
+21:54:51 [main] INFO  base.BaseTest - Loading configuration properties
+21:55:17 [main] INFO  listeners.TestListener - Test started: validlogintest
+21:55:17 [main] INFO  tests.loginTest - Starting valid login test
+21:55:17 [main] INFO  pages.loginPage - LoginPage initialized
+21:55:17 [main] INFO  tests.loginTest - Attempting login
+21:55:17 [main] INFO  pages.loginPage - Performing login action
+21:55:18 [main] INFO  pages.loginPage - Entering username
+21:55:18 [main] INFO  pages.loginPage - Entering password
+21:55:18 [main] INFO  pages.loginPage - clicking login button
+21:55:18 [main] INFO  tests.loginTest - Login failed, validating error message
+21:55:18 [main] INFO  pages.loginPage - Checking if error message is displayed
+21:55:18 [main] INFO  tests.loginTest - Login test completed for userwrong_user
+21:55:18 [main] INFO  listeners.TestListener - Test passed: validlogintest
+21:55:18 [main] INFO  base.BaseTest - Closing browser
+21:55:18 [main] INFO  base.BaseTest - Loading configuration properties
+21:55:42 [main] INFO  listeners.TestListener - Test started: validlogintest
+21:55:42 [main] INFO  tests.loginTest - Starting valid login test
+21:55:42 [main] INFO  pages.loginPage - LoginPage initialized
+21:55:42 [main] INFO  tests.loginTest - Attempting login
+21:55:42 [main] INFO  pages.loginPage - Performing login action
+21:55:42 [main] INFO  pages.loginPage - Entering username
+21:55:42 [main] INFO  pages.loginPage - Entering password
+21:55:42 [main] INFO  pages.loginPage - clicking login button
+21:55:43 [main] INFO  tests.loginTest - Login failed, validating error message
+21:55:43 [main] INFO  pages.loginPage - Checking if error message is displayed
+21:55:43 [main] INFO  tests.loginTest - Login test completed for userstandard_user
+21:55:43 [main] INFO  listeners.TestListener - Test passed: validlogintest
+21:55:43 [main] INFO  base.BaseTest - Closing browser
+21:55:43 [main] INFO  listeners.TestListener - Test execution finished. Flushing report.
+21:58:08 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+21:58:08 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+21:58:34 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Starting valid login test
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+21:58:34 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Attempting login
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+21:58:34 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+21:58:34 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+21:58:34 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+21:58:34 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login failed, validating error message
+21:58:34 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Checking if error message is displayed
+21:58:34 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login test completed for userstandard_user
+21:58:34 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+21:58:35 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+21:58:35 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+21:58:35 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+21:58:59 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+21:58:59 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+21:58:59 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+21:58:59 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+21:58:59 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+21:59:03 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Starting valid login test
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+21:59:03 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Attempting login
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+21:59:03 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login failed, validating error message
+21:59:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Checking if error message is displayed
+21:59:03 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login test completed for userwrong_user
+21:59:03 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+21:59:04 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+21:59:27 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Starting valid login test
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+21:59:27 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Attempting login
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+21:59:27 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login failed, validating error message
+21:59:27 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Checking if error message is displayed
+21:59:27 [TestNG-test-Regression Tests-1] INFO  tests.loginTest - Login test completed for userstandard_user
+21:59:27 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+21:59:29 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+21:59:29 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+21:59:29 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+21:59:29 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+21:59:30 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+21:59:30 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+21:59:30 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+21:59:30 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+21:59:30 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+21:59:40 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+21:59:40 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+22:00:04 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+22:00:04 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+22:00:04 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+22:00:14 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+22:00:15 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+22:00:40 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+22:00:40 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+22:00:40 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+22:00:50 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+22:00:51 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+22:01:19 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:01:19 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+22:01:19 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+22:01:19 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+22:01:20 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+22:01:20 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+22:01:20 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:01:20 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+22:01:20 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+22:01:30 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+22:01:30 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+22:01:54 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+22:01:54 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+22:01:54 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+22:01:58 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+22:01:58 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Loading configuration properties
+22:02:23 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - LoginPage initialized
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Performing login action
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering username
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - Entering password
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.loginPage - clicking login button
+22:02:23 [TestNG-test-Regression Tests-2] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Product Page Initialized
+22:02:23 [TestNG-test-Regression Tests-2] INFO  pages.ProductsPage - Items are adding to cart
+22:02:34 [TestNG-test-Regression Tests-2] INFO  base.BaseTest - Closing browser
+22:36:49 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:37:16 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:37:16 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:37:16 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:37:17 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:37:17 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:37:17 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:37:18 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:37:18 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:37:18 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:37:18 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Products are added to cart
+22:37:18 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Checkout page opened
+22:37:18 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:37:19 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:37:44 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:37:44 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:37:44 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:37:44 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:37:45 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:37:45 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:37:45 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:37:45 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:37:45 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:37:46 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Products are added to cart
+22:37:46 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Checkout page opened
+22:37:46 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:37:47 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:38:11 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:38:11 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:38:11 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:38:12 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:38:12 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:38:12 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:38:13 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:38:13 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:38:13 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:38:23 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:38:24 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:38:49 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:38:49 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:38:49 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:38:49 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:38:50 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:38:50 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:38:50 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:38:50 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:38:50 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:38:58 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:38:58 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:39:24 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:39:24 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:39:24 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:39:25 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:39:25 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:39:25 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:39:26 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:39:26 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:39:26 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:39:36 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:39:37 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:40:03 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:40:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:40:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:40:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:40:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:40:03 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:40:04 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:40:04 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:40:04 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:40:14 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:40:15 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:40:41 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:40:41 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:40:41 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:40:42 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:40:42 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:40:43 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:40:43 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:40:43 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:40:43 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:40:54 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:40:55 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:41:22 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:41:22 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:41:22 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:41:22 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:41:23 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:41:23 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:41:23 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:41:23 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:41:23 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:41:34 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:44:27 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:45:00 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:45:00 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:45:00 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:45:00 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:45:00 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:45:01 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:45:01 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:45:01 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:45:01 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:45:02 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Products are added to cart
+22:45:02 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Checkout page opened
+22:45:13 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:45:13 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:45:40 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:45:40 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:45:40 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:45:40 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:45:40 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:45:40 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:45:41 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:45:41 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:45:41 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:45:41 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Products are added to cart
+22:45:42 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Checkout page opened
+22:45:42 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:45:43 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:46:07 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:46:08 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - LoginPage initialized
+22:46:08 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Performing login action
+22:46:08 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering username
+22:46:08 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - Entering password
+22:46:08 [TestNG-test-Regression Tests-1] INFO  pages.loginPage - clicking login button
+22:46:09 [TestNG-test-Regression Tests-1] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:46:09 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Product Page Initialized
+22:46:09 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Items are adding to cart
+22:46:09 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Products are added to cart
+22:46:10 [TestNG-test-Regression Tests-1] INFO  pages.ProductsPage - Checkout page opened
+22:46:10 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Closing browser
+22:46:10 [TestNG-test-Regression Tests-1] INFO  base.BaseTest - Loading configuration properties
+22:46:55 [main] INFO  base.BaseTest - Loading configuration properties
+22:47:22 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:47:22 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:47:22 [main] INFO  pages.loginPage - LoginPage initialized
+22:47:22 [main] INFO  pages.loginPage - Performing login action
+22:47:22 [main] INFO  pages.loginPage - Entering username
+22:47:23 [main] INFO  pages.loginPage - Entering password
+22:47:23 [main] INFO  pages.loginPage - clicking login button
+22:47:23 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:47:23 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:47:23 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:47:24 [main] INFO  pages.ProductsPage - Products are added to cart
+22:47:24 [main] INFO  pages.ProductsPage - Checkout page opened
+22:47:24 [main] WARN  listeners.TestListener - Test skipped: addMultipleProductsToCartTest
+22:47:24 [main] INFO  base.BaseTest - Closing browser
+22:47:25 [main] INFO  base.BaseTest - Loading configuration properties
+22:47:51 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:47:51 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:47:51 [main] INFO  pages.loginPage - LoginPage initialized
+22:47:51 [main] INFO  pages.loginPage - Performing login action
+22:47:51 [main] INFO  pages.loginPage - Entering username
+22:47:51 [main] INFO  pages.loginPage - Entering password
+22:47:51 [main] INFO  pages.loginPage - clicking login button
+22:47:52 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:47:52 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:47:52 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:47:52 [main] INFO  pages.ProductsPage - Products are added to cart
+22:47:52 [main] INFO  pages.ProductsPage - Checkout page opened
+22:47:52 [main] INFO  listeners.TestListener - Test passed: addMultipleProductsToCartTest
+22:47:52 [main] INFO  base.BaseTest - Closing browser
+22:47:53 [main] INFO  base.BaseTest - Loading configuration properties
+22:48:28 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:48:28 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:48:28 [main] INFO  pages.loginPage - LoginPage initialized
+22:48:28 [main] INFO  pages.loginPage - Performing login action
+22:48:28 [main] INFO  pages.loginPage - Entering username
+22:48:28 [main] INFO  pages.loginPage - Entering password
+22:48:29 [main] INFO  pages.loginPage - clicking login button
+22:48:29 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:48:29 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:48:29 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:48:30 [main] INFO  pages.ProductsPage - Products are added to cart
+22:48:30 [main] INFO  pages.ProductsPage - Checkout page opened
+22:48:41 [main] WARN  listeners.TestListener - Test skipped: addMultipleProductsToCartTest
+22:48:41 [main] INFO  base.BaseTest - Closing browser
+22:48:41 [main] INFO  base.BaseTest - Loading configuration properties
+22:49:09 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:49:09 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:49:09 [main] INFO  pages.loginPage - LoginPage initialized
+22:49:09 [main] INFO  pages.loginPage - Performing login action
+22:49:09 [main] INFO  pages.loginPage - Entering username
+22:49:09 [main] INFO  pages.loginPage - Entering password
+22:49:10 [main] INFO  pages.loginPage - clicking login button
+22:49:10 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:49:10 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:49:10 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:49:10 [main] INFO  pages.ProductsPage - Products are added to cart
+22:49:11 [main] INFO  pages.ProductsPage - Checkout page opened
+22:49:21 [main] WARN  listeners.TestListener - Test skipped: addMultipleProductsToCartTest
+22:49:21 [main] INFO  base.BaseTest - Closing browser
+22:49:22 [main] INFO  base.BaseTest - Loading configuration properties
+22:49:47 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:49:47 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:49:47 [main] INFO  pages.loginPage - LoginPage initialized
+22:49:47 [main] INFO  pages.loginPage - Performing login action
+22:49:47 [main] INFO  pages.loginPage - Entering username
+22:49:47 [main] INFO  pages.loginPage - Entering password
+22:49:48 [main] INFO  pages.loginPage - clicking login button
+22:49:48 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:49:48 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:49:48 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:49:48 [main] INFO  pages.ProductsPage - Products are added to cart
+22:49:49 [main] INFO  pages.ProductsPage - Checkout page opened
+22:49:59 [main] ERROR listeners.TestListener - Test failed: addMultipleProductsToCartTest
+22:49:59 [main] ERROR listeners.TestListener - Failure reason: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: checkout (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.147, chrome: {chromedriverVersion: 142.0.7444.61 (9884f628acbc..., userDataDir: C:\Users\sanjana.sk\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54434}, goog:processID: 31680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54434/devtoo..., se:cdpVersion: 143.0.7499.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e24a7f84af48f2bc6541d7d158379874
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.39.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.39.0.jar:?]
+	at utils.WaitUtils.waitForElementClickable(WaitUtils.java:28) ~[classes/:?]
+	at pages.ProductsPage.checkout(ProductsPage.java:52) ~[classes/:?]
+	at tests.AddMultipleProductsTest.addMultipleProductsToCartTest(AddMultipleProductsTest.java:44) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:50:00 [main] INFO  base.BaseTest - Closing browser
+22:50:00 [main] INFO  base.BaseTest - Loading configuration properties
+22:50:26 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:50:26 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:50:26 [main] INFO  pages.loginPage - LoginPage initialized
+22:50:26 [main] INFO  pages.loginPage - Performing login action
+22:50:26 [main] INFO  pages.loginPage - Entering username
+22:50:27 [main] INFO  pages.loginPage - Entering password
+22:50:27 [main] INFO  pages.loginPage - clicking login button
+22:50:27 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:50:27 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:50:27 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:50:28 [main] INFO  pages.ProductsPage - Products are added to cart
+22:50:28 [main] INFO  pages.ProductsPage - Checkout page opened
+22:50:39 [main] WARN  listeners.TestListener - Test skipped: addMultipleProductsToCartTest
+22:50:39 [main] INFO  base.BaseTest - Closing browser
+22:50:39 [main] INFO  base.BaseTest - Loading configuration properties
+22:51:04 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:51:04 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:51:04 [main] INFO  pages.loginPage - LoginPage initialized
+22:51:04 [main] INFO  pages.loginPage - Performing login action
+22:51:04 [main] INFO  pages.loginPage - Entering username
+22:51:05 [main] INFO  pages.loginPage - Entering password
+22:51:05 [main] INFO  pages.loginPage - clicking login button
+22:51:05 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:51:05 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:51:05 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:51:06 [main] INFO  pages.ProductsPage - Products are added to cart
+22:51:06 [main] INFO  pages.ProductsPage - Checkout page opened
+22:51:16 [main] WARN  listeners.TestListener - Test skipped: addMultipleProductsToCartTest
+22:51:16 [main] INFO  base.BaseTest - Closing browser
+22:51:17 [main] INFO  base.BaseTest - Loading configuration properties
+22:51:43 [main] INFO  listeners.TestListener - Test started: addMultipleProductsToCartTest
+22:51:43 [main] INFO  tests.AddMultipleProductsTest - Performing login with valid credentials
+22:51:43 [main] INFO  pages.loginPage - LoginPage initialized
+22:51:43 [main] INFO  pages.loginPage - Performing login action
+22:51:43 [main] INFO  pages.loginPage - Entering username
+22:51:44 [main] INFO  pages.loginPage - Entering password
+22:51:44 [main] INFO  pages.loginPage - clicking login button
+22:51:44 [main] INFO  tests.AddMultipleProductsTest - Adding the multiple product to the cart
+22:51:44 [main] INFO  pages.ProductsPage - Product Page Initialized
+22:51:44 [main] INFO  pages.ProductsPage - Items are adding to cart
+22:51:45 [main] INFO  pages.ProductsPage - Products are added to cart
+22:51:45 [main] INFO  pages.ProductsPage - Checkout page opened
+22:51:55 [main] ERROR listeners.TestListener - Test failed: addMultipleProductsToCartTest
+22:51:55 [main] ERROR listeners.TestListener - Failure reason: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: checkout (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.147, chrome: {chromedriverVersion: 142.0.7444.61 (9884f628acbc..., userDataDir: C:\Users\sanjana.sk\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49681}, goog:processID: 21136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49681/devtoo..., se:cdpVersion: 143.0.7499.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e35701288cb30a34b3d0fb04580cec0
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.39.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.39.0.jar:?]
+	at utils.WaitUtils.waitForElementClickable(WaitUtils.java:28) ~[classes/:?]
+	at pages.ProductsPage.checkout(ProductsPage.java:52) ~[classes/:?]
+	at tests.AddMultipleProductsTest.addMultipleProductsToCartTest(AddMultipleProductsTest.java:44) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:51:56 [main] INFO  base.BaseTest - Closing browser
+22:51:57 [main] INFO  listeners.TestListener - Test execution finished. Flushing report.
+22:11:50 [main] INFO  listeners.TestListener - Test execution finished. Flushing report.
