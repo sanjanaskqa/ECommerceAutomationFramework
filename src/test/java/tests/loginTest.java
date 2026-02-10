@@ -13,7 +13,11 @@ public class loginTest extends BaseTest {
 
     // Test to verify that a valid user can log in successfully
     @Test(
+<<<<<<< HEAD
             groups = {"regression","smoke"},
+=======
+            groups = {"regression"},
+>>>>>>> da8faee (Updated Selenium TestNG automation framework with parallel execution and ThreadLocal driver)
             dataProvider = "addToCartData",
             dataProviderClass = DataProviderUtil.class,
             retryAnalyzer = utils.RetryAnalyzer.class)

@@ -2,7 +2,11 @@
 <suite name="Parallel Suite" parallel="methods" thread-count="3">
     <test name="Regression Tests">
         <classes>
+<<<<<<< HEAD
             <class name="tests.AddMultipleProductsTest"></class>
+=======
+            <class name="tests.loginTest"></class>
+>>>>>>> da8faee (Updated Selenium TestNG automation framework with parallel execution and ThreadLocal driver)
         </classes>
     </test>
 </suite>

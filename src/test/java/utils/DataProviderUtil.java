@@ -10,4 +10,12 @@ public class DataProviderUtil {
 
         return ExcelUtils.getTestData("AddToCartData");
     }
+<<<<<<< HEAD
+=======
+
+    @DataProvider(name ="negativeLoginData")
+    public static Object[][] getNegativeLoginData() throws Exception{
+        return ExcelUtils.getTestData("Login_NegativeData");
+    }
+>>>>>>> da8faee (Updated Selenium TestNG automation framework with parallel execution and ThreadLocal driver)
 }

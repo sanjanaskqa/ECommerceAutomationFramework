@@ -37,3 +37,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Project generated folders ###
+drivers/
+reports/
+screenshots/
+logs/
+*.log

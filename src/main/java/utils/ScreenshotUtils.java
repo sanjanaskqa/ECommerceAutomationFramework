@@ -12,6 +12,7 @@ import java.util.Date;
 
 public class ScreenshotUtils {
 
+<<<<<<< HEAD
     // Takes screenshot and saves it with test name + time
     public static void captureScreenshot(WebDriver driver, String testName)  {
 
@@ -25,14 +26,32 @@ public class ScreenshotUtils {
         String filePath = System.getProperty("user.dir") + "/screenshots/" + fileName;
 
         // Take screenshot and store it as a file
+=======
+    // Takes screenshot and returns the file path
+    public static String captureScreenshot(WebDriver driver, String testName) {
+
+        String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+        String fileName = testName + "_" + timeStamp + ".png";
+        String filePath = System.getProperty("user.dir") + "/screenshots/" + fileName;
+
+>>>>>>> da8faee (Updated Selenium TestNG automation framework with parallel execution and ThreadLocal driver)
         File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
         try {
             FileUtils.copyFile(screenshot, new File(filePath));
+<<<<<<< HEAD
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
 
+=======
+            return filePath; // ✅ IMPORTANT
+        } catch (IOException e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+>>>>>>> da8faee (Updated Selenium TestNG automation framework with parallel execution and ThreadLocal driver)
 }
